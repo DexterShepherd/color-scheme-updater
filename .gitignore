@@ -1,0 +1,3 @@
+*.bun-build
+/node_modules/
+/bin/
